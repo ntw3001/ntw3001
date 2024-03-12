@@ -1,6 +1,6 @@
 ### It's me, Nick.
 
-I'm a fullstack web developer frm the UK. Kanagawa, Japan has for eight years been my residence and the centre of my power.
+I'm a fullstack web developer from the UK. Kanagawa, Japan has for eight years been my residence and the centre of my power.
 
 I'm a graduate of Le Wagon Japan's webdev bootcamp, and am now focusing on consolidating my control over the realms of Ruby on Rails, HTML, CSS and Javascript.
 
