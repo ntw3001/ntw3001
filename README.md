@@ -6,7 +6,7 @@ I'm a graduate of Le Wagon Japan's webdev bootcamp, and am now focusing on conso
 
 My personal passions are miniature modelling and tabletop games, and my personal projects are centred around drawing upon the well of technology to empower those hobbies with the type of unpredictable, emergent decision trees presented in roguelike games.
 
-Nowadays I am reading the Mabinogion, playing Nuclear Throne and Monster Hunter World online, and Blood Bowl in the true world. I await the day I can return to the gym regularly and grow my strength once more.
+Nowadays I am reading the Mabinogion, playing Nuclear Throne and Monster Hunter World online, and Blood Bowl in the true world. I await the day I can return to the gym regularly and grow in strength once more.
 
 
 <h4 align="left">My powers:</h4>
