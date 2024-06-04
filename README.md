@@ -2,7 +2,7 @@
 
 I'm a fullstack web developer from the UK. Kanagawa, Japan has for eight years been my residence and the centre of my power.
 
-I'm a graduate of Le Wagon Japan's webdev bootcamp, and am now focusing on consolidating my control over the realms of Ruby on Rails, HTML, CSS and Javascript.
+I'm a graduate of Le Wagon Japan's webdev bootcamp, and am now focusing on consolidating my control over the realm of Vue.js.
 
 My personal passions are miniature modelling and tabletop games, and my personal projects are centred around drawing upon the well of technology to empower those hobbies with the type of unpredictable, emergent decision trees presented in roguelike games.
 
